@@ -1,208 +1,209 @@
 ﻿
-#0# Start server
-#1# Join multiplayer
-#2# Options
-#3# Developers
+#0# スタート サーバー
+#1# マルチプレイヤーに参加
+#2# オプション
+#3# 開発者
 #4# Exit
-#5# Continue
-#6# Pause
-#7# Options
-#8# Save
+#5# コンテニュー
+#6# ポーズ
+#7# オプション
+#8# セーブ
 #9# Exit
-#10# Respawn
-#11# EARLY ACCESS
-#12# The game is not ready yet but it is in very active development  Visit the development blog in Steam Community Hub to get more information
-#13# News
-#14# Discussions
-#15# Guides
-#16# To-Do List
-#17# Are you sure?
+#10# リスポーン
+#11# 先行アクセス
+#12# ゲームはまだ出来ていませんが、非常に活発に開発されています。より多くの情報を得るにはスチームコミュニティハブの開発ブログを訪問して下さい。
+
+#13# ニュース
+#14# 議論
+#15# ガイド
+#16# To-Doリスト
+#17# よろしいですか？
 #18# Exit
-#19# Back
-#20# Direct Connect
-#21# Steam Connect (coming soon)
-#22# Developers
+#19# 戻る
+#20# ダイレクトコネクト
+#21# Steam コネクト (近日公開)
+#22# 開発者
 #23# The game is developed by three friends with nicknames Artaani, Riya and Romenics  Visit our development blog on the Steam Community Hub for further information
-#24# Save
-#25# Default
-#26# Apply
-#27# AUDIO
-#28# Total
-#29# Music
-#30# GAME
-#31# Show help
-#32# Show time In chat
-#33# Sandbox Mode
-#34# Swap mouse buttons
-#35# Auto save interval
-#36# GRAPHIC
-#37# Full Screen
-#38# Textures Quality
-#39# Anti-Aliasing
+#24# セーブ
+#25# デフォルト
+#26# 適用する
+#27# オーディオ
+#28# トータル
+#29# ミュージック
+#30# ゲーム
+#31# ヘルプを表示
+#32# チャットで時間を表示
+#33# サンドボックスモード
+#34# スワップ マウスボタン
+#35# オートセーブ周期
+#36# グラフィック
+#37# フルスクリーン
+#38# テクスチャークオリティ
+#39# アンチエイリアシング
 #40# V-sync
 #41# Resolution
-#42# Press any key to set key or press ESC to exit
-#43# Save
-#44# Default
-#45# HOTKEYS
-#46# SELECT THE WORLD
-#47# NAME
-#48# SAVE DATE
-#49# GAME TIME
-#50# VERSION
-#51# CREATE WORLD
-#52# Confirm deletion of world
-#53# Back
-#54# Delete
-#55# PORT
-#56# Password
-#57# MAX PLAYERS
-#58# DELETE
-#59# LOAD
-#60# LOADING
-#61# Connecting...
-#62# WORLD NAME
-#63# PORT
-#64# PASSWORD
-#65# MAX PLAYERS
-#66# SANDBOX MODE
-#67# STATIONS AMOUNT
-#68# ENEMIES AMOUNT
-#69# ASTEROIDS AMOUNT
-#70# New world
-#71# BACK
-#72# START GAME
-#73# Join Multiplayer
+#42# どれかキーを押してセットするか、Escを押して退出して下さい
+#43# セーブ
+#44# デフォルト
+#45# ホットキー
+#46# ワールドを選択
+#47# 名前
+#48# セーブデータ
+#49# ゲームタイム
+#50# バージョン
+#51# クリエイトワールド
+#52# ワールドを削除するか確認する
+#53# 戻る
+#54# 削除
+#55# ポート
+#56# パスワード
+#57# 最大プレイヤー数
+#58# 削除
+#59# ロード
+#60# ローディング
+#61# 接続しています...
+#62# ワールドネーム
+#63# ポート
+#64# パスワード
+#65# 最大プレイヤー数
+#66# サンドボックスモード
+#67# ステーションの量
+#68# 敵の量
+#69# アステロイドの量
+#70# ニューワールド
+#71# 戻る
+#72# スタートゲーム
+#73# マルチプレイヤーに参加
 #74# IP
-#75# Port
-#76# Pass
-#77# Join
-#78# Select the Server
-#79# Add to Favorites
-#80# Confirm deletion of server
-#81# Back
-#82# Name
+#75# ポート
+#76# パス
+#77# 入る
+#78# サーバー選択
+#79# お気に入りに追加
+#80# サーバーの削除を確認します
+#81# 戻る
+#82# 名前
 #83# IP
-#84# Port
-#85# Password
-#86# Delete
-#87# Join
-#88# Save
-#89# Edit
-#90# Language
-#91# Paused
-#92# Lock Rot.
-#93# Reset Pan
+#84# ポート
+#85# パスワード
+#86# 削除
+#87# 入る
+#88# セーブ
+#89# 退出
+#90# 言語
+#91# ポーズ
+#92# 回転をロック
+#93# 視点をリセット
 #94# Local Vel.
-#95# Grid
-#96# Trade
-#97# BUILD
-#98# DECONSTRUCT
-#99# SANDBOX TOOLS
-#100# ADD RESOURCES
-#101# Oxygen
-#102# Hydrogen
-#103# Xenon
-#104# Rocket
-#105# Power
-#106# Food
-#107# Crew
+#95# グリッド
+#96# トレード
+#97# ビルド
+#98# 解体する
+#99# サンドボックスツール
+#100# リソースを追加
+#101# 酸素
+#102# 水素
+#103# キセノン
+#104# ロケット
+#105# パワー
+#106# 食料
+#107# 乗組員
 #108# AI
-#109# Duplicate selected ship
-#110# Set faction to friendly
-#111# Set faction to enemy
-#112# Create enemy ship
-#113# Add AI to the ship
-#114# Auto pilot
-#115# PHYSICS
-#116# Remove selected ship
-#117# Disable orbital mechanics
-#118# Place trajectory planner
+#109# 選択した船を複製
+#110# 派閥を友好的にする
+#111# 派閥を敵対的にする
+#112# 敵の船を作成
+#113# 船にAIを追加
+#114# オートパイロット
+#115# 物理
+#116# 選択した船を削除
+#117# 軌道力学を無効にする
+#118# 軌道プランナーを配置
 #119# Debris throw mode
-#120# Apply
-#121# Discard
-#122# Press Any Key
-#123# Set new hotkey
-#124# Distance
-#125# Relative velocity
-#126# Player
+#120# 適用
+#121# 捨てる
+#122# どれかキーを押して下さい
+#123# 新しいホットキーを設定
+#124# 距離
+#125# 相対速度
+#126# プレイヤー
 #127# Ping
-#128# Available modules
-#129# Storages
-#130# Production
-#131# Power
-#132# Miscellaneous
-#133# Weapons
-#134# Turrets
-#135# Propulsion
-#136# Crew Member Info
-#137# Health
-#138# Food
-#139# Morale
-#140# GETTING STARTED
-#141# Since the tutorial is not ready yet, we recomend to check this starting guide from community member
-#142# OPEN GUIDE
-#143# TRADING
-#144# NAME
-#145# AMOUNT
-#146# PRICE
-#147# DEMAND
-#148# SUPPLY
-#149# PREV SHIP
-#150# NEXT SHIP
-#151# TOTAL MASS 
-#152# MOMENT OF INERTIA
-#153# MODULE MASS
-#154# Not connected to Power Storage
-#155# Power consumption
-#156# Detach
-#157# Attach
-#158# Drag for transfer
-#159# Right Click: Sell
-#160# Buy: Drag and drop to own container
-#161# Drop to transfer
-#162# Hold shift to specify amount
-#163# Drop to buy
-#164# Storage type mismatch (for liquid / for solid)
-#165# Ctrl+RMB - Deconstruct
-#166# Right click - Repair
-#167# Right click - Construct
-#168# Right Click - show content
-#169# Right Click - Assign hotkey
-#170# Mass
-#171# eject
-#172# Right Click
-#173# Reset hotkey
-#174# Ctrl + Right click - Deconstruct
-#175# Ctrl + Right click - Deconstruct
-#176# Carbon
-#177# Aluminium
-#178# Silicon
-#179# Silver
-#180# Titanium
-#181# Iron
-#182# Cobalt
-#183# Nickel
-#184# Copper
-#185# Niobium
-#186# Oxygen
-#187# Hydrogen
-#188# Xenon
-#189# Ice
-#190# Fullerite
-#191# Deuterium
-#192# Uranium
-#193# Rocket
-#194# Power
-#195# Food
-#196# There is no resource with name
-#197# Can't open build menu
-#198# The current ship doesn't have an engineering bay
-#199# Out of food
-#200# can't find any food on the ship!
-#201# Starved death
-#202# has starved to death!
-#203# Warning
+#128# 利用可能なモジュール
+#129# 貯蔵
+#130# 生産
+#131# パワー
+#132# 雑多な物
+#133# 武器
+#134# ターレット
+#135# 推進
+#136# 乗組員情報
+#137# 体力
+#138# 食料
+#139# 士気
+#140# 入門
+#141# チュートリアルはまだ準備ができていないので、我々はコミュニティメンバーからこの開始ガイドを確認することをお勧めします
+#142# オープンガイド
+#143# トレーディング
+#144# 名前
+#145# 量
+#146# 価格
+#147# 需要
+#148# 補給
+#149# 前の船に戻る
+#150# 次の船を選択
+#151# 全重量 
+#152# 慣性モーメント
+#153# モジュール重量
+#154# 電力設備に繋がってません
+#155# 消費電力
+#156# 取り外す
+#157# 取り付ける
+#158# 転送するためにドラッグ
+#159# 右クリック: 売る
+#160# 買う: 自分の容器にドラッグ＆ドロップ
+#161# 転送するためにドロップ
+#162# シフトをホールドして、量を指定する
+#163# ドロップして購入
+#164# ストレージタイプの不一致（液体/固体）
+#165# Ctrl+RMB - 解体
+#166# 右クリック - 修理
+#167# 右クリック - 組み立て
+#168# 右クリック - 内容を見る
+#169# 右クリック - ホットキーの割り当て
+#170# 質量
+#171# 取り出す
+#172# 右クリック
+#173# リセット ホットキー
+#174# Ctrl + 右クリック - 分解する
+#175# Ctrl + 右クリック - 分解する
+#176# カーボン
+#177# アルミニウム
+#178# シリコン
+#179# 銀
+#180# チタニウム
+#181# 鉄
+#182# コバルト
+#183# ニッケル
+#184# 銅
+#185# ニオビウム
+#186# 酸素
+#187# 水素
+#188# キセノン
+#189# 氷
+#190# フラライト
+#191# 重水素
+#192# ウラニウム
+#193# ロケット
+#194# パワー
+#195# 食料
+#196# 名前の資源がありません
+#197# ビルドメニューを開けません
+#198# 現在の船は、エンジニアリング・ベイを持っていません
+#199# 食糧が尽きた
+#200# 船に食べ物がありません！
+#201# 餓死
+#202# 餓死しています！
+#203# 警告
 #204# Last command module cannot be deconstructed
 #205# Automatic movement stopped due manual control
 #206# Warp drive is not ready yet
